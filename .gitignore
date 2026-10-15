@@ -1,0 +1,32 @@
+# Fichiers générés par Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Environnements virtuels
+venv/
+.venv/
+env/
+.env/
+
+# Variables d'environnement (NE JAMAIS PUBLIER !)
+.env
+*.env
+secrets.py
+
+# Fichiers temporaires Python
+*.tmp
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
